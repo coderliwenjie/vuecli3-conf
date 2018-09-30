@@ -1,5 +1,5 @@
 {
-  "packageManager": "npm",
+  "packageManager": "yarn",
   "useTaobaoRegistry": true,
   "useConfigFiles": true,
   "plugins": {
