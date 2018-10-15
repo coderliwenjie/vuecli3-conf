@@ -1,5 +1,6 @@
 {
-  "packageManager": "yarn",
+  "packageManager": "npm",
+  "useTaobaoRegistry": true,
   "useConfigFiles": true,
   "plugins": {
     "@vue/cli-plugin-babel": {},
